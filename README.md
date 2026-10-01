@@ -116,37 +116,6 @@ I'm currently focusing on strengthening my understanding of
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rubin222&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubin222&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rubin222&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rubin222&theme=tokyo-night&hide_border=true">
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
