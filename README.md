@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rubin Karki
 
-### 💻 Computer Science Student | DevOps & Cloud Enthusiast | Data & ML Explorer
+### 💻 Computer Science Student | Data Science, DevOps & Cloud Enthusiast | AI & ML Explorer
 
 <p>
   <a href="https://github.com/rubin222">
