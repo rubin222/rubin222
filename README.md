@@ -24,9 +24,7 @@ working with cloud infrastructure, and exploring data-driven solutions.
 
 * 🎓 BSc CSIT student at Deerwalk Institute of Technology
 * ☁️ Interested in Cloud & DevOps
-* 🐍 Working with Python and data technologies
-* 🌐 Building web applications
-* 🤖 Exploring Machine Learning
+* 🐍 Data Science, AI and machine learning ethusiasts
 * 🔧 Learning Linux, Docker, networking, and cloud infrastructure
 
 ---
@@ -39,7 +37,8 @@ working with cloud infrastructure, and exploring data-driven solutions.
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=black">
+<img src="https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=C++&logoColor=black">
 </p>
 
 ### 🌐 Web Development
