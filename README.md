@@ -1,23 +1,171 @@
-<h1 align="center">Hi 👋, I'm Rubin Karki.</h1>
-<h3 align="center">A passionate developer from Nepal.</h3>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/rubinkarki10" target="blank"><img src="https://img.shields.io/twitter/follow/rubinkarki10?logo=twitter&style=for-the-badge" alt="rubinkarki10" /></a> </p>
+# 👋 Hi, I'm Rubin Karki
 
-- 🔭 I’m currently working on **Collaborative filtering**
+### 💻 Computer Science Student | DevOps & Cloud Enthusiast | Data & ML Explorer
 
-- 🌱 I’m currently learning **Python and Django.**
-
-- 👯 I’m looking to collaborate on **Python and Django.**
-
-- 🤝 I’m looking for help with **Python and Django.**
-
-- 📫 How to reach me **rubinkarki2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rubinkarki10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rubinkarki10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rubin karki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubin karki" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/rubin222">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a Computer Science student interested in building practical software,
+working with cloud infrastructure, and exploring data-driven solutions.
+
+* 🎓 BSc CSIT student at Deerwalk Institute of Technology
+* ☁️ Interested in Cloud & DevOps
+* 🐍 Working with Python and data technologies
+* 🌐 Building web applications
+* 🤖 Exploring Machine Learning
+* 🔧 Learning Linux, Docker, networking, and cloud infrastructure
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+### 📊 Data & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ Travel Destination Recommendation System
+
+A machine-learning-based recommendation system for discovering
+travel destinations in Nepal.
+
+**Tech:** Python · Pandas · Scikit-learn · TF-IDF · K-Means · Streamlit · SQLite
+
+🔗 [View Project](https://github.com/rubin222/travel-destination-recommendation-using-k-means-clustering)
+
+---
+
+### 📝 Note-Taking Application
+
+A web-based note management application with authentication,
+search, and database integration.
+
+**Tech:** Laravel · PHP · MySQL · JWT
+
+🔗 [View Projects](https://github.com/rubin222)
+
+---
+
+## 📚 Currently Learning
+
+```text
+Linux
+  ↓
+Networking
+  ↓
+Docker
+  ↓
+AWS
+  ↓
+Kubernetes
+  ↓
+CI/CD
+  ↓
+Monitoring & Observability
+```
+
+I'm currently focusing on strengthening my understanding of
+**Cloud, DevOps, networking, QA, data, and machine learning**.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rubin222&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubin222&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rubin222&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rubin222&theme=tokyo-night&hide_border=true">
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/rubin222">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Always learning. Always building. 🚀
+
+</div>
