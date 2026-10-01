@@ -41,13 +41,6 @@ working with cloud infrastructure, and exploring data-driven solutions.
 <img src="https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=C++&logoColor=black">
 </p>
 
-### 🌐 Web Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-</p>
 
 ### ☁️ DevOps & Cloud
 
@@ -108,6 +101,8 @@ Kubernetes
 CI/CD
   ↓
 Monitoring & Observability
+
+Data preprocessing, ETL, Pandas, NumPy, Scikit-learn, Machine Learning, SQL
 ```
 
 I'm currently focusing on strengthening my understanding of
